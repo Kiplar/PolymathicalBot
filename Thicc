@@ -1,0 +1,8 @@
+// Thicc Command for 5 Subs
+const thiccCommand = (message) => {
+    if (message === "!thicc") {
+      return 'axellThicc';
+  }
+}
+
+module.exports = thiccCommand;
